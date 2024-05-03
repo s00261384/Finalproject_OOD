@@ -1,0 +1,105 @@
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.exe.config
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.exe
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.pdb
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Buffers.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Memory.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Json.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.ValueTuple.dll
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.exe
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.pdb
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.exe.config
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Buffers.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Memory.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Json.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.ValueTuple.xml
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.csproj.AssemblyReference.cache
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.csproj.CoreCompileInputs.cache
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetco.83A0DDDE.Up2Date
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.exe
+C:\Users\33783\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.pdb
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.exe.config
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.exe
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Projetconsole.pdb
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Buffers.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Memory.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Json.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.ValueTuple.dll
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.exe
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.pdb
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\TEST.exe.config
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Buffers.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Memory.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Text.Json.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\bin\Debug\System.ValueTuple.xml
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.csproj.AssemblyReference.cache
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.csproj.CoreCompileInputs.cache
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.csproj.CopyComplete
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.exe
+C:\Users\JesyCrouvisier-STUDE\OneDrive - Atlantic TU\Documents\OOD\Personalproject\Projetconsole\obj\Debug\Projetconsole.pdb
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\obj\Debug\Projetconsole.csproj.AssemblyReference.cache
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\obj\Debug\Projetconsole.csproj.CoreCompileInputs.cache
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\obj\Debug\Projetconsole.exe
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\obj\Debug\Projetconsole.pdb
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Projetconsole.exe.config
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Projetconsole.exe
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Projetconsole.pdb
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\EntityFramework.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Buffers.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Memory.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Text.Json.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.ValueTuple.dll
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\TEST.exe
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\TEST.pdb
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\TEST.exe.config
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\EntityFramework.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Buffers.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Memory.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Text.Json.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\bin\Debug\System.ValueTuple.xml
+C:\Users\JesyCrouvisier-STUDE\source\repos\Finalproject_OOD\TEST\Projetconsole\obj\Debug\Projetconsole.csproj.CopyComplete

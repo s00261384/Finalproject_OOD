@@ -1,0 +1,81 @@
+
+    [
+        {
+          "PlayerID": 1,
+          "Name": "Kylian Mbappé",
+          "Position": "Forward",
+          "Image": "mbappe.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 2,
+          "Name": "Antoine Griezmann",
+          "Position": "Forward",
+          "Image": "griezmann.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 3,
+          "Name": "N'Golo Kanté",
+          "Position": "Midfielder",
+          "Image": "kante.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 4,
+          "Name": "Raphaël Varane",
+          "Position": "Defender",
+          "Image": "varane.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 5,
+          "Name": "Hugo Lloris",
+          "Position": "Goalkeeper",
+          "Image": "lloris.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 6,
+          "Name": "Paul Pogba",
+          "Position": "Midfielder",
+          "Image": "pogba.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 7,
+          "Name": "Benjamin Pavard",
+          "Position": "Defender",
+          "Image": "pavard.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 8,
+          "Name": "Lucas Hernandez",
+          "Position": "Defender",
+          "Image": "hernandez.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 9,
+          "Name": "Karim Benzema",
+          "Position": "Forward",
+          "Image": "benzema.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 10,
+          "Name": "Adrien Rabiot",
+          "Position": "Midfielder",
+          "Image": "rabiot.jpg",
+          "nationality": "French"
+        },
+        {
+          "PlayerID": 11,
+          "Name": "Presnel Kimpembe",
+          "Position": "Defender",
+          "Image": "kimpembe.jpg",
+          "nationality": "French"
+        }
+      ]
+      

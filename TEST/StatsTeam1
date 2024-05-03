@@ -1,0 +1,923 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "team1": "Qatar",
+      "team2": "Ecuador",
+      "date":"20 november 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Ecuador", "time": "16'","player":"Enner Valencia"},
+        {"team": "Ecuador", "time": "31'","player":"Enner Valencia"}
+      ],
+      "winner":"Ecuador"
+    },
+   {
+    "id": 2,
+      "team1": "Senegal",
+      "team2": "Netherlands",
+      "date":"21 november 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Netherlands", "time": "84'"},
+        {"team": "Netherlands", "time": "90+9'"}
+      ],
+      "winner":"Netherlands"
+     },
+     {
+    "id": 3,
+      "team1": "Qatar",
+      "team2": "Senegal",
+      "date":"25 november 2022",
+      "score_at_end": "1-3",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Senegal", "time": "41'","player":"Boulaye Dia"},
+        {"team": "Senegal", "time": "48'","player":"Famara Diedhiou"},
+        {"team": "Qatar", "time": "78'","player":"Mohammed Muntari"},
+        {"team": "Senegal", "time": "84'","player":"Bamba Dieng"}
+      ],
+      "winner":"Senegal"
+     },
+     {
+    "id": 4,
+      "team1": "Netherlands",
+      "team2": "Ecuador",
+      "date":"25 november 2022",
+      "score_at_end": "1-1",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Netherlands", "time": "6'","player":" Cody Gakpo"},
+        {"team": "Ecuador", "time": "49'","player":"Enner Valencia"}
+      ],
+      "winner":"NULL"
+     },
+     {
+    "id": 5,
+      "team1": "Netherlands",
+      "team2": "Qatar",
+      "date":"29 november 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Netherlands", "time": "26'","player":"Cody Gakpo"},
+        {"team": "Netherlands", "time": "49'","player":"Frenkie De Jong"}
+      ],
+      "winner":"Netherlands"
+     },
+     {
+    "id": 6,
+      "team1": "Ecuador",
+      "team2": "Senegal",
+      "date":"29 november 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Senegal", "time": "44'","player":"Ismaïla Sarr"},
+        {"team": "Ecuador", "time": "67'","player":"Moises Caicedo"},
+        {"team": "Senegal", "time": "70'","player":"Kalidou Koulibaly"}
+      ],
+      "winner":"Senegal"
+     },
+     {
+    "id": 7,
+      "team1": "England",
+      "team2": "Iran",
+      "date":"21 november 2022",
+      "score_at_end": "6-2",
+      "score_halfway": "3-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "England", "time": "35'","player":"Jude Bellingham"},
+        {"team": "England", "time": "43'","player":"Bukayo Saka"},
+        {"team": "England", "time": "45+1'","player":"Raheem Sterling"},
+        {"team": "England", "time": "62'","player":"Bukayo Saka"},
+        {"team": "Iran", "time": "65'","player":"Medhi Taremi"},
+        {"team": "England", "time": "71'","player":"Marcus Rashford"},
+        {"team": "England", "time": "90'","player":"Jack Grealish"},
+        {"team": "Iran", "time": "90+13'","player":"Medhi Taremi"}
+      ],
+      "winner":"Engalnd"
+     },
+     {
+      "id": 8,
+      "team1": "United States",
+      "team2": "Wales",
+      "date":"21 november 2022",
+      "score_at_end": "1-1",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "United States", "time": "36'","player":"Timothy Weah"},
+        {"team": "Wales", "time": "82'","player":"Gareth Frank Bale"}
+      ],
+      "winner":"NULL"
+    },
+   {
+    "id": 9,
+      "team1": "Wales",
+      "team2": "Iran",
+      "date":"25 november 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Iran", "time": "90+8'","player":"Rouzbeh Cheshmi"},
+        {"team": "Iran", "time": "90+11'","player":"Ramin Rezaeian"}
+      ],
+      "winner":"Iran"
+     },
+     {
+    "id": 10,
+      "team1": "England",
+      "team2": "United States",
+      "date":"25 november 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+    "id": 11,
+      "team1": "Wales",
+      "team2": "England",
+      "date":"29 november 2022",
+      "score_at_end": "0-3",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "England", "time": "50'","player":"Marcus Rashford"},
+        {"team": "England", "time": "51'","player":"Philip Walter Foden"},
+        {"team": "England", "time": "68'","player":"Marcus Rashford"}
+      ],
+      "winner":"England"
+     },
+     {
+    "id": 12,
+      "team1": "Iran",
+      "team2": "United States",
+      "date":"29 november 2022",
+      "score_at_end": "0-1",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "United States", "time": "38'","player":"Christian Mate Pulisic"}
+      ],
+      "winner":"United States"
+     },
+     {
+    "id": 13,
+      "team1": "Argentina",
+      "team2": "Saudi Arabia",
+      "date":"22 november 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Argentina", "time": "10'","player":"Lionel Messi"},
+        {"team": "Saudi Arabia", "time": "48'","player":"Saleh Khalid Mohammed Al-Shehri"},
+        {"team": "Saudi Arabia", "time": "53'","player":"Salem Mohammed Shafi Al-Dawsari"}
+      ],
+      "winner":"Saudi Arabia"
+     },
+     {
+    "id": 14,
+      "team1": "Mexico",
+      "team2": "Poland",
+      "date":"22 november 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "scores": [],
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+      "id": 15,
+      "team1": "Poland",
+      "team2": "Saudi Arabia",
+      "date":"26 november 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Poland", "time": "39'","player":"Piotr Sebastian Zieliński"},
+        {"team": "Poland", "time": "82'","player":"Robert Lewandowski"}
+      ],
+      "winner":"Poland"
+    },
+   {
+    "id": 16,
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "date":"26 november 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Argentina", "time": "64'","player":"Lionel Messi"},
+        {"team": "Argentina", "time": "87'","player":"Enzo Jeremías Fernández"}
+      ],
+      "winner":"Argentina"
+     },
+     {
+    "id": 17,
+      "team1": "Poland",
+      "team2": "Argentina",
+      "date":"30 november 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Argentina", "time": "46'","player":"Alexis Mac Allister"},
+        {"team": "Argentina", "time": "67'","player":"Julián Álvarez"}
+      ],
+      "winner":"Argentina"
+     },
+     {
+    "id": 18,
+      "team1": "Saudi Arabia",
+      "team2": "Mexico",
+      "date":"30 november 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Mexico", "time": "47'","player":"Henry Martín"},
+        {"team": "Mexico", "time": "52'","player":"Luis Chávez"},
+        {"team": "Saudi Arabia", "time": "90+5'","player":"Salem Mohammed Shafi Al-Dawsari"}
+      ],
+      "winner":"Mexico"
+     },
+     {
+    "id": 19,
+      "team1": "Denmark",
+      "team2": "Tunisia",
+      "date":"22 november 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+    "id": 20,
+      "team1": "France",
+      "team2": "Australia",
+      "date":"22 november 2022",
+      "score_at_end": "4-1",
+      "score_halfway": "2-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Australia", "time": "9'","player":"Craig Alexander Goodwin"},
+        {"team": "France", "time": "27'","player":"Adrien Thibault Marie Rabiot"},
+        {"team": "France", "time": "32'","player":"Olivier Giroud"},
+        {"team": "France", "time": "68'","player":"Kylian Mbappe"},
+        {"team": "France", "time": "71'","player":"Olivier Giroud"}
+      ],
+      "winner":"France"
+     },
+     {
+    "id": 21,
+      "team1": "Tunisia",
+      "team2": "Australia",
+      "date":"26 november 2022",
+      "score_at_end": "0-1",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+       {"team": "Australia", "time": "23'","player":"Mitchell Thomas Duke"}
+      ],
+      "winner":"Australia"
+     },
+     {
+      "id": 22,
+      "team1": "Australia",
+      "team2": "Denmark",
+      "date":"30 november 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Australia", "time": "60'","player":"Mathew Allan Leckie"}
+      ],
+      "winner":"Australia"
+    },
+   {
+    "id": 23,
+      "team1": "Tunisia",
+      "team2": "France",
+      "date":"30 november 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Tunisia", "time": "58'","player":"Whabi Khazri"}
+      ],
+      "winner":"Tunisia"
+     },
+     {
+    "id": 24,
+      "team1": "Germany",
+      "team2": "Japan",
+      "date":"23 november 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Germany", "time": "33'","player":"İlkay Gündoğan"},
+        {"team": "Japan", "time": "75'","player":"Ritsu Dōan"},
+        {"team": "Japan", "time": "83'","player":"Takuma Asano"}
+      ],
+      "winner":"Japan"
+     },
+     {
+    "id": 25,
+      "team1": "Spain",
+      "team2": "Costa Rica",
+      "date":"23 november 2022",
+      "score_at_end": "7-0",
+      "score_halfway": "2-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Spain", "time": "11'","player":"Daniel Olmo"},
+        {"team": "Spain", "time": "21'","player":"Marco Asensio"},
+        {"team": "Spain", "time": "31'","player":"Feran Torres"},
+        {"team": "Spain", "time": "54'","player":"Ferranb Torres"},
+        {"team": "Spain", "time": "74'","player":"Pablo Martín Páez Gavira"},
+        {"team": "Spain", "time": "90'","player":"Carlos Soler"},
+        {"team": "Spain", "time": "90+2'","player":"Álvaro Morata"}
+      ],
+      "winner":"Spain"
+     },
+     {
+    "id": 26,
+      "team1": "Japan",
+      "team2": "Costa Rica",
+      "date":"27 november 2022",
+      "score_at_end": "0-1",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Costa Rica", "time": "81'","player":"Keysher Fuller"}
+      ],
+      "winner":"Costa Rica"
+     },
+     {
+    "id": 27,
+      "team1": "Spain",
+      "team2": "Germany",
+      "date":"27 november 2022",
+      "score_at_end": "1-1",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Spain", "time": "62'","player":"Álvaro Morata"},
+        {"team": "Germany", "time": "83'","player":"Niclas Füllkrug"}
+      ],
+      "winner":"NULL"
+     },
+     {
+    "id": 28,
+      "team1": "Japan",
+      "team2": "Spain",
+      "date":"1 december 2022",
+      "score_at_end": "2-1",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Spain", "time": "11'","player":"Álvaro Morata"},
+        {"team": "Japan", "time": "48'","player":"Ritsu Dōan"},
+        {"team": "Japan", "time": "51'","player":"Tanaka"}
+      ],
+      "winner":"Japan"
+     },
+     {
+      "id": 29,
+      "team1": "Costa Rica",
+      "team2": "Germany",
+      "date":"1 december 2022",
+      "score_at_end": "2-4",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Germany", "time": "10'","player":"Serge David Gnabry"},
+        {"team": "Costa Rica", "time": "58'","player":"Yeltsin Ignacio Tejeda"},
+        {"team": "Costa Rica", "time": "70'","player":"Juan Pablo Vargas"},
+        {"team": "Germany", "time": "73'","player":"Kai Lukas Havertz"},
+        {"team": "Germany", "time": "85'","player":"Kai Lukas Havertz"},
+        {"team": "Germany", "time": "89'","player":"Niclas Füllkrug"}
+      ],
+      "winner":"Germany"
+    },
+   {
+    "id": 30,
+      "team1": "Morocco",
+      "team2": "Croatia",
+      "date":"23 november 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+    "id": 31,
+      "team1": "Belgium",
+      "team2": "Canada",
+      "date":"23 november 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+       {"team": "Belgium", "time": "44'","player":"Michy Batshayi"}
+      ],
+      "winner":"Belgium"
+     },
+     {
+    "id": 32,
+      "team1": "Belgium",
+      "team2": "Morocco",
+      "date":"27 november 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Morocco", "time": "73'","player":"Romain Saïss"},
+        {"team": "Morocco", "time": "90+0'","player":"Zakaria Aboukhlal"}
+      ],
+      "winner":"Morocco"
+     },
+     {
+    "id": 33,
+      "team1": "Croatia",
+      "team2": "Canada",
+      "date":"27 november 2022",
+      "score_at_end": "4-1",
+      "score_halfway": "1-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Canada", "time": "2'","player":"Alphonso Boyle Davies"},
+        {"team": "Croatia", "time": "36'","player":"Andrej Kramarić"},
+        {"team": "Croatia", "time": "44'","player":"Marko Livaja"},
+        {"team": "Croatia", "time": "70'","player":"Andrej Kramarić"},
+        {"team": "Croatia", "time": "90+4'","player":"Lovro Majer"}
+      ],
+     "winner":"Croatia"
+     },
+     {
+    "id": 34,
+      "team1": "Croatia",
+      "team2": "Belgium",
+      "date":"1 december 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+    "id": 35,
+      "team1": "Canada",
+      "team2": "Morocco",
+      "date":"1 december 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "1-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Morocco", "time": "4'","player":"Hakim Ziyech"},
+        {"team": "Morocco", "time": "23'","player":"Youssef En-Nesyri"},
+        {"team": "Canada", "time": "40'","player":"Nayef Aguerd"}
+      ],
+      "winner":"Morocco"
+     },
+     {
+      "id": 36,
+      "team1": "Switzerland",
+      "team2": "Cameroon",
+      "date":"24 november 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Switzerland", "time": "48'","player":"Breel Donald Embolo"}
+      ],
+      "winner":"Switzerland"
+    },
+   {
+    "id": 37,
+      "team1": "Brazil",
+      "team2": "Serbia",
+      "date":"24 november 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Brazil", "time": "62'","player":"Richarlison"},
+        {"team": "Brazil", "time": "73'","player":"Richarlison"}
+      ],
+      "winner":"Brazil"
+     },
+     {
+    "id": 38,
+      "team1": "France",
+      "team2": "Brazil",
+      "date":"28 november 2022",
+      "score_at_end": "3-3",
+      "score_halfway": "1-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Cameroon", "time": "29'","player":"Jean-Charles Victor Castelletto"},
+        {"team": "Serbia", "time": "45+1'","player":"Strahinja Pavlović"},
+        {"team": "Serbia", "time": "45+3'","player":"Sergej Milinković-Savić"},
+        {"team": "Serbia", "time": "53'","player":"Aleksandar Mitrović"},
+        {"team": "Cameroon", "time": "63'","player":"Vincent Aboubakar"},
+        {"team": "Cameroon", "time": "66'","player":"Jean-Eric Maxim Choupo-Moting"}
+      ],
+      "winner":"NULL"
+     },
+     {
+    "id": 39,
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "date":"28 november 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Brazil", "time": "83'","player":"Carlos Henrique Casemiro"}
+      ],
+      "winner":"Brazil"
+     },
+     {
+    "id": 40,
+      "team1": "Serbia",
+      "team2": "Switzerland",
+      "date":"2 december 2022",
+      "score_at_end": "2-3",
+      "score_halfway": "2-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Switzerland", "time": "20'","player":"Xherdan Shaqiri"},
+        {"team": "Serbia", "time": "26'","player":"Aleksandar Mitrović"},
+        {"team": "Serbia", "time": "35'","player":"Dušan Vlahović"},
+        {"team": "Switzerland", "time": "44'","player":"Breel Donald Embolo"},
+        {"team": "Switzerland", "time": "48'","player":"Remo Marco Freuler"}
+      ],
+      "winner":"Switzerland"
+     },
+     {
+    "id": 41,
+      "team1": "Cameroon",
+      "team2": "Brazil",
+      "date":"2 december 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+       {"team": "Cameroon", "time": "90+2'","player":"Vincent Aboubakar"}
+      ],
+      "winner":"Cameroon"
+     },
+     {
+    "id": 42,
+      "team1": "Uruguay",
+      "team2": "South Korea",
+      "date":"24 november 2022",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [],
+      "winner":"NULL"
+     },
+     {
+      "id": 43,
+      "team1": "Portugal",
+      "team2": "Ghana",
+      "date":"24 november 2022",
+      "score_at_end": "3-2",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Portugal", "time": "65'","player":"Christiano Ronaldo"},
+        {"team": "Ghana", "time": "73'","player":"André Ayew"},
+        {"team": "Portugal", "time": "78'","player":"João Félix"},
+        {"team": "Portugal", "time": "80'","player":"Rafael Leão"},
+        {"team": "Ghana", "time": "89'","player":"Osman Bukari"}
+      ],
+      "winner":"Portugal"
+    },
+   {
+    "id": 44,
+      "team1": "South Korea",
+      "team2": "Ghana",
+      "date":"28 november 2022",
+      "score_at_end": "2-3",
+      "score_halfway": "0-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Ghana", "time": "24'","player":"Mohammed Salisu"},
+        {"team": "Ghana", "time": "34'","player":"Mohammed Kudus"},
+        {"team": "South Korea", "time": "58'","player":"Cho Gue-Sung"},
+        {"team": "South Korea", "time": "61'","player":"Cho Gue-Sung"},
+        {"team": "Ghana", "time": "68'","player":"Mohammed Kudus"}
+      ],
+      "winner":"Ghana"
+     },
+     {
+    "id": 45,
+      "team1": "Portugal",
+      "team2": "Uruguay",
+      "date":"28 november 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "0-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Portugal", "time": "54'","player":"Bruno Miguel Fernandes"},
+        {"team": "Portugal", "time": "90+3'","player":"Bruno Miguel Fernandes"}
+      ],
+      "winner":"Portugal"
+     },
+     {
+    "id": 46,
+      "team1": "Ghana",
+      "team2": "Uruguay",
+      "date":"2 december 2022",
+      "score_at_end": "0-2",
+      "score_halfway": "0-2",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Uruguay", "time": "26'","player":"Giorgian de Arrascaeta"},
+        {"team": "Uruguay", "time": "32'","player":"Giorgian de Arrascaeta"}
+      ],
+      "winner":"Uruguay"
+     },
+     {
+    "id": 47,
+      "team1": "South Korea",
+      "team2": "Portugal",
+      "date":"2 december 2022",
+      "score_at_end": "2-1",
+      "score_halfway": "1-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Portugal", "time": "5'","player":"Ricardo Horta"},
+        {"team": "South Korea", "time": "27'","player":"Kim Young-Gwon"},
+        {"team": "South Korea", "time": "90+1'","player":"Hwang Hee-Chan"}
+      ],
+      "winner":"South korea"
+     },
+     {
+    "id": 48,
+      "team1": "Netherlands",
+      "team2": "United States",
+      "date":"3 december 2022",
+      "score_at_end": "3-1",
+      "score_halfway": "2-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Netherlands", "time": "10'","player":"Memphis Depay"},
+        {"team": "Netherlands", "time": "45+1'","player":"Daley Blind"},
+        {"team": "United States", "time": "76'","player":"Haji Wright"},
+        {"team": "Netherlands", "time": "81'","player":"Denzel Dumfries"}
+      ],
+      "winner":"Netherlands"
+     },
+     {
+    "id": 49,
+      "team1": "Argentina",
+      "team2": "Australia",
+      "date":"3 december 2022",
+      "score_at_end": "2-1",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Argentina", "time": "35'","player":"Lionel Messi"},
+        {"team": "Argentina", "time": "57'","player":"Julián Álvarez "},
+        {"team": "Australia", "time": "77'","player":"Enzo Fernández"}
+      ],
+      "winner":"Argentina"
+     },
+     {
+      "id": 50,
+      "team1": "Japan",
+      "team2": "Croatia",
+      "date":"5 december 2022",
+      "score_at_end": "1-1",
+      "score_halfway": "1-0",
+      "penalty":"1-3",
+      "times": [
+        {"team": "Japan", "time": "43'","player":"Daizen Maeda"},
+        {"team": "Croatia", "time": "55'","player":"Ivan Perišić"}
+      ], 
+      "winner":"Croatia"
+    },
+   {
+    "id": 51,
+      "team1": "Brazil",
+      "team2": "South Korea",
+      "date":"5 december 2022",
+      "score_at_end": "4-1",
+      "score_halfway": "4-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Brazil", "time": "7'","player":"Vinícius Júnior"},
+        {"team": "Brazil", "time": "13'","player":"Neynar"},
+        {"team": "Brazil", "time": "29'","player":"Richarlison"},
+        {"team": "Brazil", "time": "36'","player":"Lucas Paquetá"},
+        {"team": "South Korea", "time": "76'","player":"Paik Seung-Ho"}
+      ],
+      "winner":"Brazil"
+     },
+     {
+    "id": 52,
+      "team1": "England",
+      "team2": "Senegal",
+      "date":"4 december 2022",
+      "score_at_end": "3-0",
+      "score_halfway": "2-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "England", "time": "39'","player":"Jordan Henderson"},
+        {"team": "England", "time": "45+3'","player":"Harry Kane"},
+        {"team": "England", "time": "57'","player":"Bukayo Saka"}
+      ],
+     "winner":"England"
+     },
+     {
+    "id": 53,
+      "team1": "France",
+      "team2": "Poland",
+      "date":"4 december 2022",
+      "score_at_end": "3-1",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "France", "time": "44'","player":"Olivier Giroud"},
+        {"team": "France", "time": "74'","player":"Kylian Mbappe"},
+        {"team": "France", "time": "90+1'","player":"Kylian Mbappe"},
+        {"team": "Poland", "time": "90+9'","player":"Robert Lewandowski"}
+      ],
+     "winner":"France"
+     },
+     {
+    "id": 54,
+      "team1": "Morocco",
+      "team2": "Spain",
+      "date":"6 december 20222",
+      "score_at_end": "0-0",
+      "score_halfway": "0-0",
+      "penalty":"3-0",
+      "times": [],
+     "winner":"Morocco"
+     },
+     {
+    "id": 55,
+      "team1": "Portugal",
+      "team2": "Switzerland",
+      "date":"6 december 2022",
+      "score_at_end": "6-1",
+      "score_halfway": "2-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Portugal", "time": "17'","player":"Gonçalo Ramos"},
+        {"team": "Portugal", "time": "33'","player":"Pepe"},
+        {"team": "Portugal", "time": "51'","player":"Gonçalo Ramos"},
+        {"team": "Portugal", "time": "55'","player":"Raphaël Guerreiro"},
+        {"team": "Switzerland", "time": "58'","player":"Manuel Akanji"},
+        {"team": "Portugal", "time": "67'","player":"Gonçalo Ramos"},
+        {"team": "Portugal", "time": "90+2'","player":"Rafael Leão"}
+      ],
+     "winner":"Portugal"
+     },
+     {
+    "id": 56,
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "date":"9 december 2022",
+      "score_at_end": "2-2",
+      "score_halfway": "0-1",
+      "penalty":"3-4",
+      "times": [
+        {"team": "Argentina", "time": "35'","player":"Nahuel Molina"},
+        {"team": "Argentina", "time": "73'","player":"Lionel Messi"},
+        {"team": "Netherlands", "time": "83'","player":"Wout Weghorst"},
+        {"team": "Netherlands", "time": "90+11'","player":"Wout Weghorst"}
+      ],
+     "winner":"Argentina"
+     },
+     {
+      "id": 57,
+      "team1": "Croatia",
+      "team2": "Brazil",
+      "date":"9 december 2022",
+      "score_at_end": "1-1",
+      "score_halfway": "1-0",
+      "penalty":"4-2",
+      "times": [
+        {"team": "Brazil", "time": "105+1'","player":"Neymar"},
+        {"team": "Croatia", "time": "117'","player":"Bruno Petkovic"}
+      ],
+    "winner":"Croatia"
+    },
+   {
+    "id": 58,
+      "team1": "England",
+      "team2": "France",
+      "date":"10 december 2022",
+      "score_at_end": "1-2",
+      "score_halfway": "0-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "France", "time": "17'","player":"Aurélien Tchouaméni"},
+        {"team": "England", "time": "54'","player":"Harry Kane"},
+        {"team": "France", "time": "78'","player":"Olivier Giroud"}
+      ],
+     "winner":"France"
+     },
+     {
+    "id": 59,
+      "team1": "Morocco",
+      "team2": "Portugal",
+      "date":"10 december 2022",
+      "score_at_end": "1-0",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Morocco", "time": "42'","player":"Youssef En-Nesyri"}
+      ],
+     "winner":"Morocco"
+     },
+     {
+    "id": 60,
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "date":"13 december 2022",
+      "score_at_end": "3-0",
+      "score_halfway": "2-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Argentina", "time": "34'","player":"Lionel Messi"},
+        {"team": "Argentina", "time": "39'","player":"Julián Álvarez"},
+        {"team": "Argentina", "time": "69'","player":"Julián Álvarez"}
+      ],
+     "winner":"Argentina"
+     },
+     {
+    "id": 61,
+      "team1": "France",
+      "team2": "Morocco",
+      "date":"14 december 2022",
+      "score_at_end": "2-0",
+      "score_halfway": "1-0",
+      "penalty":"0-0",
+      "times": [
+        {"team": "France", "time": "5'","player":"Théo Hernandez"},
+        {"team": "France", "time": "79'","player":"Randal Kolo Muani"}
+      ],
+     "winner":"France"
+     },
+     {
+    "id": 62,
+      "team1": "Argentina",
+      "team2": "France",
+      "date":"18 december 2022",
+      "score_at_end": "3-3",
+      "score_halfway": "2-0",
+      "penalty":"4-2",
+      "times": [
+        {"team": "Argentina", "time": "23'","player":"Lionel Messi"},
+        {"team": "Argentina", "time": "36'","player":"Ángel Di María"},
+        {"team": "France", "time": "80'","player":"Kylian Mbappe"},
+        {"team": "France", "time": "81'","player":"Kylian Mbappe"},
+        {"team": "Argentina", "time": "108'","player":"Lionel Messi"},
+        {"team": "France", "time": "118'","player":"Kylian Mbappe"}
+      ],
+      "winner":"Argentina"
+     },
+     {
+    "id": 63,
+      "team1": "Croatia",
+      "team2": "Morocco",
+      "date":"17 december 2022",
+      "score_at_end": "2-1",
+      "score_halfway": "2-1",
+      "penalty":"0-0",
+      "times": [
+        {"team": "Croatia", "time": "7'","player":"Joško Gvardiol"},
+        {"team": "Morocco", "time": "9'","player":"Achraf Dari"},
+        {"team": "Croatia", "time": "42'","player":"Mislav Oršić"}
+      ],
+      "winner":"Croatia"
+     }
+    ]
+      

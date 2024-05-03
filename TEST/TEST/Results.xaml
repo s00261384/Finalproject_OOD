@@ -1,0 +1,22 @@
+﻿<Window x:Class="TEST.Results"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TEST"
+        mc:Ignorable="d"
+        Title="Results" Height="450" Width="800" Background="CornflowerBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="t1" HorizontalAlignment="Left" Margin="81,10,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="65" Width="188" FontSize="40" FontFamily="Forte"/>
+        <TextBlock x:Name="t2" HorizontalAlignment="Left" Margin="125,10,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="65" Width="223" FontSize="40" FontFamily="Forte" Grid.Column="1"/>
+        <TextBlock x:Name="penalty" HorizontalAlignment="Left" Margin="353,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="76" Width="188" FontSize="20" FontFamily="Forte" Grid.ColumnSpan="2"><Run Language="en-gb" Text="        "/><Run Text="TextBlock"/></TextBlock>
+        <ListBox x:Name="goals1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="46,128,96,65" Background="#FFF3EDED"/>
+        <ListBox x:Name="goals2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="90,128,52,65" Grid.Column="1" Background="#FFF3EDED" BorderBrush="#FF566AA5"/>
+        <TextBlock x:Name="score" HorizontalAlignment="Left" Margin="353,45,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="65" Width="188" FontSize="30" FontFamily="Forte" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="date" HorizontalAlignment="Left" Margin="309,15,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="46" Grid.ColumnSpan="2" Width="146" FontSize="20" FontFamily="Forte"/>
+    </Grid>
+</Window>
